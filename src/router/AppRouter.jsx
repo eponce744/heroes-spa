@@ -5,7 +5,7 @@ import { DcPage } from '../heroes/pages/DCPage'
 import { LoginPage } from '../auth/pages/LoginPage'
 import { Navbar } from '../ui/components/Navbar'
 import { HeroesRoutes } from '../heroes/router/HeroesRoutes'
-import PrivateRouter from './PrivateRouter'
+import { PrivateRouter } from './PrivateRouter'
 import { PublicRouter } from './PublicRouter'
 
 
